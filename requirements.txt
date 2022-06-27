@@ -31,7 +31,7 @@ python-apt==1.6.4
 python-debian==0.1.32
 python-xapp==1.6.0
 python-xlib==0.20
-reportlab==3.4.0
+reportlab==3.5.55
 requests-unixsocket==0.1.5
 sessioninstaller==0.0.0
 setproctitle==1.1.10
