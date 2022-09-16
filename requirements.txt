@@ -11,7 +11,7 @@ defer==1.0.6
 httplib2==0.9.2
 idna==2.6
 louis==3.5.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.0
 menulibre==2.2.0
 netifaces==0.10.4
